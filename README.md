@@ -1,2 +1,1 @@
-# Template
-PIEA plugin basic template
+<img src="http://i.imgur.com/fk4jV4h.jpg"/>
